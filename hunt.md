@@ -14,15 +14,15 @@ In terminal:
 
 Find your response header
 
-  1. What status did you get back?
-  2. What content-type did you get back?
-  3. What came after the key "Set-Cookie"?
-  4. What date did this request come back on?
-  5. What came after the key "Transfer-Encoding?"
+  *1.* What status did you get back?
+  *2.* What content-type did you get back?
+  *3.* What came after the key "Set-Cookie"?
+  *4.* What date did this request come back on?
+  *5.* What came after the key "Transfer-Encoding?"
 
 Find your response body
 
-  6. What was the first line in your response body?
+  *1.* What was the first line in your response body?
 
 _______________________________________________
 
@@ -34,14 +34,14 @@ In terminal:
 
 Find your response header
 
-  - What status did you get back?
-  - What content-type did you get back?
-  - What was your content length?
-  - What date did this request come back on?
+  *1.* What status did you get back?
+  *2.* What content-type did you get back?
+  *3.* What was your content length?
+  *4.* What date did this request come back on?
 
 Find your response body
 
-  - What was the first line in your response body?
+  *1.* What was the first line in your response body?
 
 ___________________________________________________
 
@@ -53,14 +53,14 @@ In terminal:
 
 Find your response header
 
-  - What status did you get back?
-  - What content-type did you get back?
-  - What was your content length?
+  *1.* What status did you get back?
+  *2.* What content-type did you get back?
+  *3.* What was your content length?
 
 Find your response body
 
-  - Look at the data that came back. What data structures do these look like?
-  - What year did Titanic II come out?
+  *1.* Look at the data that came back. What data structures do these look like?
+  *2.* What year did Titanic II come out?
 
 _______________________________________________________________________
 
@@ -75,10 +75,10 @@ i.e. `curl -v http://www.omdbapi.com/?t=the%20matrix`
 
 Find the response header  
 
-  - What was the Cache-Control?
-  - What value is after the key Expires?
+  *1.* What was the Cache-Control?
+  *2.* What value is after the key Expires?
 
 Find the response body
 
-  - What year was your favorite movie released?
-  - What was your favorite movie rated?
+  *1.* What year was your favorite movie released?
+  *2.* What was your favorite movie rated?
