@@ -14,15 +14,15 @@ In terminal:
 
 Find your response header
 
-  *1.* What status did you get back?
-  *2.* What content-type did you get back?
-  *3.* What came after the key "Set-Cookie"?
-  *4.* What date did this request come back on?
-  *5.* What came after the key "Transfer-Encoding?"
+  **1.** What status did you get back?  
+  **2.** What content-type did you get back?  
+  **3.** What came after the key "Set-Cookie"?  
+  **4.** What date did this request come back on?  
+  **5.** What came after the key "Transfer-Encoding?"  
 
 Find your response body
 
-  *1.* What was the first line in your response body?
+  **1.** What was the first line in your response body?  
 
 _______________________________________________
 
@@ -34,14 +34,14 @@ In terminal:
 
 Find your response header
 
-  *1.* What status did you get back?
-  *2.* What content-type did you get back?
-  *3.* What was your content length?
-  *4.* What date did this request come back on?
+  **1.** What status did you get back?  
+  **2.** What content-type did you get back?  
+  **3.** What was your content length?  
+  **4.** What date did this request come back on?  
 
 Find your response body
 
-  *1.* What was the first line in your response body?
+  **1.** What was the first line in your response body?  
 
 ___________________________________________________
 
@@ -53,14 +53,14 @@ In terminal:
 
 Find your response header
 
-  *1.* What status did you get back?
-  *2.* What content-type did you get back?
-  *3.* What was your content length?
+  **1.** What status did you get back?  
+  **2.** What content-type did you get back?
+  **3.** What was your content length?  
 
 Find your response body
 
-  *1.* Look at the data that came back. What data structures do these look like?
-  *2.* What year did Titanic II come out?
+  **1.** Look at the data that came back. What data structures do these look like?  
+  **2.** What year did Titanic II come out?  
 
 _______________________________________________________________________
 
