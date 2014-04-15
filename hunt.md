@@ -75,10 +75,10 @@ i.e. `curl -v http://www.omdbapi.com/?t=the%20matrix`
 
 Find the response header  
 
-  *1.* What was the Cache-Control?
-  *2.* What value is after the key Expires?
+  **1.** What was the Cache-Control?  
+  **2.** What value is after the key Expires?  
 
 Find the response body
 
-  *1.* What year was your favorite movie released?
-  *2.* What was your favorite movie rated?
+  **1.** What year was your favorite movie released?  
+  **2.** What was your favorite movie rated?  
