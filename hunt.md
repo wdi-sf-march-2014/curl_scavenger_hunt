@@ -14,15 +14,15 @@ In terminal:
 
 Find your response header
 
-  - What status did you get back?
-  - What content-type did you get back?
-  - What came after the key "Set-Cookie"?
-  - What date did this request come back on?
-  - What came after the key "Transfer-Encoding?"
+  1. What status did you get back?
+  2. What content-type did you get back?
+  3. What came after the key "Set-Cookie"?
+  4. What date did this request come back on?
+  5. What came after the key "Transfer-Encoding?"
 
 Find your response body
 
-  - What was the first line in your response body?
+  6. What was the first line in your response body?
 
 _______________________________________________
 
